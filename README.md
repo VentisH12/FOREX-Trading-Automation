@@ -2,8 +2,11 @@
 Repository of the work I completed in FARDE Inc.
 
 **Methodologies Followed**: Agile (3 week scrum cycles)
+
 **Tools**: GSuite, OAUTH, OANDA APIs
+
 **Programming Languages**: Python, Excel Macros
+
 **Data Structures Used**: Queues, Dequeues, dictionaries, arrays and trees
 
 **Concept:** Track the FOREX pricing triggers and develop an Stop Loss Manager (SLM) algorithm that would consider the triggers and their threshold value to alert if it is time to get into or get out of the FX pairs trade. 
